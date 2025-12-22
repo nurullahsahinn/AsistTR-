@@ -1,4 +1,4 @@
-# 🇹🇷 AsistTR - Yerli ve Milli Canlı Destek Platformu
+# 🇹🇷 AsistTR Canlı Destek Platformu
 
 <div align="center">
 
