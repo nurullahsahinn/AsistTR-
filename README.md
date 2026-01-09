@@ -3640,8 +3640,6 @@ Bu proje aşağıdaki açık kaynak projeleri kullanmaktadır:
 
 <div align="center">
 
-**⭐ N U R U L L A H     Ş A H İ N**
 
-Made with ❤️ in Turkey 🇹🇷
 
 </div>
